@@ -1,0 +1,14 @@
+{
+  "name": "super-rentals",
+  "description": "Small description for super-rentals goes here",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
